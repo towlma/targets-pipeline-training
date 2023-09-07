@@ -1,0 +1,16 @@
+---
+title: "Exploratory report"
+author: "Tristan Hay"
+date: "`r Sys.Date()`"
+output: html_document
+params:
+  data: FALSE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+summary(params$data)
+```

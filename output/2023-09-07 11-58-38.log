@@ -1,0 +1,961 @@
+ERROR [2023-09-07 11:58:38] Data quality issues !
+      verb redux_fn                                            predicate
+1   assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+2   assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+3   assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+4   assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+5   assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+6   assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+7   assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+8   assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+9   assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+10  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+11  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+12  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+13  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+14  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+15  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+16  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+17  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+18  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+19  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+20  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+21  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+22  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+23  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+24  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+25  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+26  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+27  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+28  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+29  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+30  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+31  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+32  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+33  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+34  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+35  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+36  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+37  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+38  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+39  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+40  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+41  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+42  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+43  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+44  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+45  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+46  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+47  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+48  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+49  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+50  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+51  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+52  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+53  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+54  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+55  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+56  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+57  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+58  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+59  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+60  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+61  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+62  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+63  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+64  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+65  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+66  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+67  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+68  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+69  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+70  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+71  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+72  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+73  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+74  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+75  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+76  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+77  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+78  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+79  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+80  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+81  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+82  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+83  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+84  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+85  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+86  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+87  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+88  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+89  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+90  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+91  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+92  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+93  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+94  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+95  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+96  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+97  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+98  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+99  assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+100 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+101 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+102 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+103 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+104 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+105 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+106 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+107 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+108 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+109 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+110 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+111 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+112 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+113 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+114 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+115 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+116 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+117 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+118 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+119 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+120 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+121 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+122 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+123 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+124 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+125 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+126 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+127 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+128 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+129 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+130 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+131 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+132 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+133 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+134 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+135 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+136 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+137 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+138 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+139 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+140 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+141 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+142 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+143 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+144 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+145 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+146 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+147 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+148 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+149 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+150 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+151 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+152 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+153 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+154 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+155 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+156 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+157 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+158 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+159 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+160 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+161 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+162 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+163 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+164 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+165 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+166 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+167 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+168 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+169 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+170 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+171 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+172 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+173 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+174 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+175 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+176 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+177 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+178 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+179 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+180 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+181 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+182 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+183 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+184 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+185 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+186 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+187 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+188 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+189 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+190 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+191 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+192 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+193 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+194 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+195 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+196 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+197 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+198 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+199 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+200 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+201 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+202 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+203 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+204 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+205 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+206 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+207 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+208 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+209 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+210 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+211 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+212 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+213 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+214 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+215 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+216 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+217 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+218 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+219 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+220 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+221 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+222 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+223 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+224 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+225 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+226 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+227 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+228 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+229 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+230 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+231 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+232 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+233 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+234 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+235 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+236 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+237 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+238 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+239 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+240 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+241 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+242 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+243 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+244 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+245 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+246 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+247 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+248 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+249 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+250 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+251 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+252 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+253 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+254 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+255 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+256 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+257 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+258 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+259 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+260 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+261 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+262 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+263 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+264 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+265 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+266 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+267 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+268 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+269 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+270 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+271 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+272 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+273 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+274 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+275 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+276 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+277 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+278 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+279 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+280 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+281 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+282 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+283 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+284 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+285 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+286 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+287 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+288 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+289 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+290 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+291 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+292 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+293 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+294 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+295 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+296 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+297 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+298 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+299 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+300 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+301 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+302 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+303 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+304 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+305 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+306 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+307 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+308 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+309 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+310 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+311 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+312 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+313 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+314 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+315 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+316 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+317 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+318 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+319 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+320 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+321 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+322 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+323 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+324 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+325 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+326 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+327 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+328 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+329 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+330 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+331 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+332 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+333 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+334 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+335 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+336 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+337 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+338 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+339 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+340 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+341 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+342 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+343 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+344 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+345 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+346 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+347 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+348 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+349 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+350 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+351 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+352 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+353 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+354 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+355 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+356 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+357 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+358 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+359 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+360 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+361 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+362 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+363 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+364 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+365 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+366 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+367 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+368 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+369 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+370 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+371 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+372 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+373 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+374 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+375 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+376 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+377 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+378 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+379 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+380 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+381 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+382 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+383 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+384 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+385 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+386 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+387 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+388 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+389 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+390 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+391 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+392 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+393 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+394 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+395 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+396 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+397 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+398 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+399 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+400 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+401 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+402 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+403 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+404 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+405 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+406 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+407 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+408 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+409 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+410 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+411 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+412 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+413 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+414 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+415 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+416 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+417 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+418 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+419 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+420 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+421 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+422 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+423 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+424 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+425 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+426 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+427 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+428 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+429 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+430 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+431 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+432 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+433 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+434 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+435 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+436 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+437 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+438 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+439 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+440 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+441 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+442 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+443 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+444 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+445 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+446 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+447 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+448 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+449 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+450 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+451 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+452 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+453 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+454 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+455 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+456 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+457 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+458 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+459 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+460 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+461 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+462 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+463 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+464 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+465 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+466 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+467 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+468 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+469 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+470 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+471 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+472 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+473 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+474 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+475 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+476 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+477 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+478 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+479 assert       NA within_bounds(lowerb, upperb, includelow, includeup)
+       column index value
+1   veh_value    19  0.27
+2   veh_value   145  0.22
+3   veh_value   164  0.22
+4   veh_value   250  0.00
+5   veh_value   349  0.20
+6   veh_value   366  0.30
+7   veh_value   393  0.00
+8   veh_value   785  0.30
+9   veh_value   796  0.27
+10  veh_value  1042  0.29
+11  veh_value  1511  0.22
+12  veh_value  1532  0.28
+13  veh_value  1723  0.30
+14  veh_value  1748  0.27
+15  veh_value  2002  0.30
+16  veh_value  2080  0.26
+17  veh_value  2096  0.24
+18  veh_value  2476  0.28
+19  veh_value  2609  0.00
+20  veh_value  2705  0.29
+21  veh_value  2772  0.30
+22  veh_value  2774  0.19
+23  veh_value  2828  0.00
+24  veh_value  2944  0.29
+25  veh_value  3127  0.27
+26  veh_value  3355  0.27
+27  veh_value  3500  0.24
+28  veh_value  3680  0.30
+29  veh_value  3720  0.30
+30  veh_value  3773  0.26
+31  veh_value  3811  0.22
+32  veh_value  3882  0.00
+33  veh_value  3996  0.19
+34  veh_value  4148  0.29
+35  veh_value  4254  0.26
+36  veh_value  4425  0.29
+37  veh_value  4828  0.28
+38  veh_value  5157  0.00
+39  veh_value  5196  0.30
+40  veh_value  5480  0.19
+41  veh_value  5537  0.30
+42  veh_value  5667  0.28
+43  veh_value  5674  0.24
+44  veh_value  5946  0.29
+45  veh_value  6062  0.29
+46  veh_value  6348  0.00
+47  veh_value  6465  0.28
+48  veh_value  6492  0.19
+49  veh_value  6589  0.29
+50  veh_value  6604  0.00
+51  veh_value  6686  0.19
+52  veh_value  6762  0.29
+53  veh_value  6914  0.22
+54  veh_value  7082  0.27
+55  veh_value  7110  0.24
+56  veh_value  7269  0.28
+57  veh_value  7426  0.28
+58  veh_value  7471  0.28
+59  veh_value  7729  0.29
+60  veh_value  7829  0.29
+61  veh_value  8176  0.26
+62  veh_value  8177  0.25
+63  veh_value  8802  0.22
+64  veh_value  8894  0.27
+65  veh_value  8949  0.30
+66  veh_value  9056  0.22
+67  veh_value  9289  0.28
+68  veh_value  9305  0.22
+69  veh_value  9459  0.28
+70  veh_value  9484  0.30
+71  veh_value  9536  0.27
+72  veh_value  9678  0.24
+73  veh_value  9694  0.24
+74  veh_value  9714  0.30
+75  veh_value  9760  0.29
+76  veh_value  9782  0.22
+77  veh_value  9848  0.19
+78  veh_value  9987  0.30
+79  veh_value  9994  0.27
+80  veh_value 10073  0.28
+81  veh_value 10162  0.30
+82  veh_value 10530  0.23
+83  veh_value 10620  0.18
+84  veh_value 11011  0.29
+85  veh_value 11192  0.28
+86  veh_value 11310  0.24
+87  veh_value 11334  0.28
+88  veh_value 11394  0.30
+89  veh_value 11690  0.28
+90  veh_value 11791  0.30
+91  veh_value 11835  0.29
+92  veh_value 12173  0.00
+93  veh_value 12230  0.18
+94  veh_value 12278  0.27
+95  veh_value 12301  0.30
+96  veh_value 12345  0.30
+97  veh_value 12958  0.00
+98  veh_value 13310  0.28
+99  veh_value 13481  0.28
+100 veh_value 13592  0.21
+101 veh_value 13620  0.28
+102 veh_value 13805  0.29
+103 veh_value 13814  0.22
+104 veh_value 13870  0.30
+105 veh_value 14032  0.28
+106 veh_value 14162  0.29
+107 veh_value 14238  0.30
+108 veh_value 14271  0.29
+109 veh_value 14309  0.30
+110 veh_value 14524  0.22
+111 veh_value 14732  0.30
+112 veh_value 14739  0.28
+113 veh_value 14997  0.00
+114 veh_value 15479  0.27
+115 veh_value 15489  0.22
+116 veh_value 15642  0.27
+117 veh_value 15679  0.19
+118 veh_value 15777  0.00
+119 veh_value 15830  0.30
+120 veh_value 15831  0.30
+121 veh_value 16321  0.28
+122 veh_value 16326  0.28
+123 veh_value 16349  0.28
+124 veh_value 16379  0.24
+125 veh_value 16586  0.26
+126 veh_value 17082  0.29
+127 veh_value 17285  0.18
+128 veh_value 17393  0.22
+129 veh_value 17489  0.29
+130 veh_value 17562  0.30
+131 veh_value 17807  0.26
+132 veh_value 17963  0.26
+133 veh_value 17966  0.27
+134 veh_value 18043  0.28
+135 veh_value 18103  0.30
+136 veh_value 18110  0.29
+137 veh_value 18218  0.22
+138 veh_value 18269  0.27
+139 veh_value 18297  0.29
+140 veh_value 18490  0.29
+141 veh_value 18633  0.29
+142 veh_value 18712  0.28
+143 veh_value 18924  0.28
+144 veh_value 19068  0.26
+145 veh_value 19179  0.29
+146 veh_value 19286  0.24
+147 veh_value 19287  0.20
+148 veh_value 19438  0.29
+149 veh_value 19669  0.19
+150 veh_value 19931  0.22
+151 veh_value 20235  0.26
+152 veh_value 20464  0.18
+153 veh_value 20499  0.30
+154 veh_value 20607  0.22
+155 veh_value 20623  0.23
+156 veh_value 20707  0.24
+157 veh_value 20826  0.29
+158 veh_value 20862  0.29
+159 veh_value 20938  0.18
+160 veh_value 20940  0.29
+161 veh_value 20989  0.00
+162 veh_value 21035  0.22
+163 veh_value 21145  0.19
+164 veh_value 21226  0.30
+165 veh_value 21271  0.28
+166 veh_value 21299  0.25
+167 veh_value 21707  0.29
+168 veh_value 21726  0.29
+169 veh_value 21775  0.30
+170 veh_value 21799  0.22
+171 veh_value 21845  0.29
+172 veh_value 22119  0.00
+173 veh_value 22120  0.29
+174 veh_value 22293  0.22
+175 veh_value 22402  0.30
+176 veh_value 22416  0.29
+177 veh_value 22517  0.28
+178 veh_value 22594  0.28
+179 veh_value 22935  0.28
+180 veh_value 22942  0.24
+181 veh_value 23014  0.30
+182 veh_value 23050  0.20
+183 veh_value 23057  0.28
+184 veh_value 23105  0.00
+185 veh_value 23109  0.28
+186 veh_value 23217  0.00
+187 veh_value 23229  0.26
+188 veh_value 23323  0.29
+189 veh_value 23566  0.22
+190 veh_value 23644  0.29
+191 veh_value 24079  0.28
+192 veh_value 24333  0.29
+193 veh_value 24568  0.30
+194 veh_value 24658  0.28
+195 veh_value 24801  0.00
+196 veh_value 24907  0.21
+197 veh_value 25024  0.30
+198 veh_value 25221  0.28
+199 veh_value 25551  0.30
+200 veh_value 25680  0.29
+201 veh_value 25781  0.29
+202 veh_value 25813  0.29
+203 veh_value 26081  0.30
+204 veh_value 26201  0.29
+205 veh_value 26263  0.27
+206 veh_value 26425  0.30
+207 veh_value 26521  0.29
+208 veh_value 26537  0.00
+209 veh_value 26907  0.30
+210 veh_value 27074  0.27
+211 veh_value 27098  0.28
+212 veh_value 27117  0.29
+213 veh_value 27139  0.18
+214 veh_value 27247  0.24
+215 veh_value 27644  0.18
+216 veh_value 27868  0.22
+217 veh_value 27972  0.28
+218 veh_value 28008  0.18
+219 veh_value 28278  0.00
+220 veh_value 28353  0.29
+221 veh_value 28369  0.28
+222 veh_value 28389  0.28
+223 veh_value 28557  0.28
+224 veh_value 28675  0.29
+225 veh_value 28729  0.30
+226 veh_value 28789  0.30
+227 veh_value 30124  0.29
+228 veh_value 30215  0.29
+229 veh_value 30226  0.22
+230 veh_value 30380  0.27
+231 veh_value 30468  0.28
+232 veh_value 30595  0.28
+233 veh_value 30682  0.30
+234 veh_value 30812  0.30
+235 veh_value 30872  0.30
+236 veh_value 31275  0.30
+237 veh_value 31297  0.29
+238 veh_value 31467  0.00
+239 veh_value 31514  0.28
+240 veh_value 32079  0.29
+241 veh_value 32217  0.26
+242 veh_value 32243  0.00
+243 veh_value 32347  0.24
+244 veh_value 32845  0.00
+245 veh_value 32848  0.27
+246 veh_value 33034  0.29
+247 veh_value 33169  0.22
+248 veh_value 33341  0.30
+249 veh_value 33544  0.28
+250 veh_value 33691  0.28
+251 veh_value 33709  0.00
+252 veh_value 33816  0.21
+253 veh_value 33848  0.00
+254 veh_value 33998  0.29
+255 veh_value 34042  0.28
+256 veh_value 34133  0.00
+257 veh_value 34272  0.00
+258 veh_value 34277  0.00
+259 veh_value 34333  0.30
+260 veh_value 34381  0.30
+261 veh_value 34547  0.00
+262 veh_value 34558  0.00
+263 veh_value 34741  0.29
+264 veh_value 35390  0.30
+265 veh_value 35476  0.00
+266 veh_value 35682  0.28
+267 veh_value 35831  0.28
+268 veh_value 36041  0.22
+269 veh_value 36286  0.29
+270 veh_value 37452  0.00
+271 veh_value 37523  0.28
+272 veh_value 37555  0.29
+273 veh_value 37620  0.29
+274 veh_value 37641  0.29
+275 veh_value 37747  0.28
+276 veh_value 37804  0.30
+277 veh_value 37872  0.24
+278 veh_value 38193  0.29
+279 veh_value 38207  0.19
+280 veh_value 38344  0.30
+281 veh_value 38377  0.30
+282 veh_value 38640  0.00
+283 veh_value 38773  0.29
+284 veh_value 38777  0.30
+285 veh_value 38798  0.27
+286 veh_value 38961  0.00
+287 veh_value 39437  0.00
+288 veh_value 39537  0.30
+289 veh_value 39591  0.30
+290 veh_value 39685  0.30
+291 veh_value 39728  0.30
+292 veh_value 40260  0.28
+293 veh_value 40268  0.29
+294 veh_value 40335  0.30
+295 veh_value 40682  0.29
+296 veh_value 40743  0.28
+297 veh_value 40777  0.21
+298 veh_value 40795  0.22
+299 veh_value 40836  0.30
+300 veh_value 40887  0.22
+301 veh_value 40965  0.29
+302 veh_value 41333  0.00
+303 veh_value 41341  0.30
+304 veh_value 41560  0.24
+305 veh_value 41640  0.28
+306 veh_value 41744  0.30
+307 veh_value 42277  0.00
+308 veh_value 42361  0.28
+309 veh_value 42461  0.28
+310 veh_value 42505  0.29
+311 veh_value 42664  0.30
+312 veh_value 42899  0.00
+313 veh_value 43000  0.26
+314 veh_value 43043  0.28
+315 veh_value 43076  0.30
+316 veh_value 43093  0.00
+317 veh_value 43147  0.22
+318 veh_value 43613  0.22
+319 veh_value 43826  0.26
+320 veh_value 43931  0.24
+321 veh_value 44227  0.28
+322 veh_value 44240  0.25
+323 veh_value 44259  0.29
+324 veh_value 44825  0.30
+325 veh_value 44844  0.28
+326 veh_value 44872  0.29
+327 veh_value 44907  0.29
+328 veh_value 44963  0.27
+329 veh_value 45088  0.28
+330 veh_value 45089  0.29
+331 veh_value 45169  0.29
+332 veh_value 45189  0.00
+333 veh_value 45227  0.29
+334 veh_value 45366  0.28
+335 veh_value 45568  0.29
+336 veh_value 45574  0.24
+337 veh_value 45593  0.25
+338 veh_value 45687  0.29
+339 veh_value 45797  0.20
+340 veh_value 45865  0.27
+341 veh_value 45882  0.28
+342 veh_value 46168  0.28
+343 veh_value 46183  0.27
+344 veh_value 47164  0.29
+345 veh_value 47193  0.26
+346 veh_value 47224  0.29
+347 veh_value 47226  0.30
+348 veh_value 47294  0.26
+349 veh_value 47302  0.29
+350 veh_value 47397  0.26
+351 veh_value 47746  0.30
+352 veh_value 47865  0.29
+353 veh_value 48311  0.27
+354 veh_value 48427  0.25
+355 veh_value 48626  0.22
+356 veh_value 48693  0.28
+357 veh_value 49117  0.00
+358 veh_value 49299  0.28
+359 veh_value 49354  0.23
+360 veh_value 49394  0.22
+361 veh_value 49441  0.26
+362 veh_value 49585  0.28
+363 veh_value 49665  0.30
+364 veh_value 49933  0.28
+365 veh_value 49965  0.30
+366 veh_value 50039  0.29
+367 veh_value 50090  0.24
+368 veh_value 50208  0.29
+369 veh_value 50222  0.22
+370 veh_value 50227  0.22
+371 veh_value 50960  0.29
+372 veh_value 50992  0.19
+373 veh_value 51095  0.26
+374 veh_value 51111  0.24
+375 veh_value 51118  0.24
+376 veh_value 51160  0.27
+377 veh_value 51312  0.29
+378 veh_value 51335  0.22
+379 veh_value 51338  0.22
+380 veh_value 51377  0.30
+381 veh_value 51378  0.30
+382 veh_value 51936  0.00
+383 veh_value 52212  0.26
+384 veh_value 52357  0.29
+385 veh_value 52649  0.30
+386 veh_value 53209  0.21
+387 veh_value 53450  0.20
+388 veh_value 53813  0.19
+389 veh_value 54020  0.29
+390 veh_value 54043  0.27
+391 veh_value 54170  0.29
+392 veh_value 54230  0.22
+393 veh_value 54264  0.28
+394 veh_value 54311  0.22
+395 veh_value 55010  0.24
+396 veh_value 55162  0.22
+397 veh_value 55574  0.00
+398 veh_value 55623  0.28
+399 veh_value 55686  0.29
+400 veh_value 55701  0.27
+401 veh_value 55753  0.00
+402 veh_value 55951  0.25
+403 veh_value 56071  0.28
+404 veh_value 56549  0.28
+405 veh_value 56973  0.30
+406 veh_value 57318  0.22
+407 veh_value 57557  0.28
+408 veh_value 57659  0.27
+409 veh_value 57688  0.30
+410 veh_value 57689  0.29
+411 veh_value 57739  0.28
+412 veh_value 57797  0.29
+413 veh_value 57978  0.30
+414 veh_value 58126  0.28
+415 veh_value 58198  0.28
+416 veh_value 58329  0.00
+417 veh_value 58397  0.00
+418 veh_value 58746  0.29
+419 veh_value 58776  0.29
+420 veh_value 58845  0.22
+421 veh_value 58905  0.26
+422 veh_value 58997  0.22
+423 veh_value 59022  0.29
+424 veh_value 59289  0.29
+425 veh_value 59321  0.27
+426 veh_value 59455  0.22
+427 veh_value 59491  0.28
+428 veh_value 59827  0.28
+429 veh_value 59965  0.29
+430 veh_value 60295  0.00
+431 veh_value 60398  0.26
+432 veh_value 60525  0.27
+433 veh_value 60722  0.27
+434 veh_value 60916  0.24
+435 veh_value 60970  0.00
+436 veh_value 61142  0.26
+437 veh_value 61361  0.23
+438 veh_value 61375  0.26
+439 veh_value 61537  0.22
+440 veh_value 61565  0.30
+441 veh_value 61730  0.30
+442 veh_value 61845  0.29
+443 veh_value 61903  0.22
+444 veh_value 61908  0.22
+445 veh_value 61943  0.22
+446 veh_value 61971  0.29
+447 veh_value 61990  0.26
+448 veh_value 62020  0.26
+449 veh_value 62021  0.30
+450 veh_value 62066  0.29
+451 veh_value 62110  0.24
+452 veh_value 62140  0.30
+453 veh_value 62616  0.00
+454 veh_value 62875  0.00
+455 veh_value 63028  0.28
+456 veh_value 63175  0.29
+457 veh_value 63249  0.30
+458 veh_value 63551  0.23
+459 veh_value 63913  0.24
+460 veh_value 64042  0.27
+461 veh_value 64251  0.30
+462 veh_value 64433  0.24
+463 veh_value 64633  0.22
+464 veh_value 64932  0.00
+465 veh_value 65886  0.30
+466 veh_value 65914  0.27
+467 veh_value 66051  0.29
+468 veh_value 66063  0.29
+469 veh_value 66065  0.30
+470 veh_value 66237  0.30
+471 veh_value 66916  0.30
+472 veh_value 66930  0.00
+473 veh_value 66956  0.28
+474 veh_value 67037  0.28
+475 veh_value 67124  0.28
+476 veh_value 67285  0.00
+477 veh_value 67323  0.00
+478 veh_value 67538  0.19
+479 veh_value 67733  0.28

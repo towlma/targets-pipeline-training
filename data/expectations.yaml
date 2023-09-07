@@ -1,0 +1,15 @@
+gender:
+  value_set: 
+    - "M"
+    - "F"
+veh_value:
+  bounds:
+    lowerb: 0.3
+    upperb: 99
+exposure:
+  bounds:
+    lowerb: 0
+    includelow: False
+    upperb: 1
+    includeup: True
+    

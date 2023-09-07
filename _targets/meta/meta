@@ -1,0 +1,11 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+check_expectations|function|eddf1fbbc4516b05|||||||||||||||
+data_expectations|stem|ea5a7649108e9480|d2f3d38943b7a7b3|3e336601fcd1ad88|912989248||t19607.4592634735s|edce0efd19a3c370|219|rds|local|vector|||0|ligne finale incomplète trouvée dans dataexpectations.yaml|
+data_file|stem|fb1af533e59faac3|583624e1564e8734|ef46db3751d8e999|1397204146|data/dataCar.rds|t19607.2919078492s|3ff386dd184eee38|440862|file|local|vector|||0||
+data_in|stem|fb1af533e59faac3|2b89ca3be2ece589|1db8ff8cec40f198|298208386||t19607.4592649452s|3ff386dd184eee38|440862|rds|local|vector|||0||
+data_quality|stem|52605c7932668bb9|a7429cab0aaced66|9f058675ddd6fe63|959292212||t19607.4592688399s|ac45463db19e2cbe|48|rds|local|vector|||0.32||
+expecations_file|stem|55852a13e2def4f1|954f8122b406d8ed|ef46db3751d8e999|-2125741398|data/expectations.yaml|t19607.3660715293s|c3cbfe28e1565b13|202|file|local|vector|||0.07|le package tibble a été compilé avec la version R 4.2.3. le package dplyr a été compilé avec la version R 4.2.3. le package assertr a été compilé avec la version R 4.2.3. le package log4r a été compilé avec la version R 4.2.3|
+exploratory_report|stem|b416b3f69cc30247|e1605029714f0163|95b8c384414e411c|-591583219|output/exploratory_report.html*Rmd/exploratory_report.Rmd|t19607.4592778381s|5ebf34cde1e026a4|625472|file|local|vector|||0.85||
+perform_data_quality|function|086b7525a0c1f9b1|||||||||||||||
+train_freq|stem|3a0920e6b6a2bc40|7449d89a244455a0|b54eb53b34abd36a|-1245572720||t19607.4592945796s|304770346afe8534|7722948|rds|local|vector|||0.58||
+train_sev|stem|fbbd1b955081f97e|0cabe4f5edcef890|a9c3937ba85def82|424853920||t19607.4592809848s|a6006ecd750e86c1|815337|rds|local|vector|||0.06||
