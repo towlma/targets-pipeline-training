@@ -14,7 +14,8 @@ tar_option_set(
   packages = c("tibble", 
                "dplyr",
                "assertr",
-               "log4r") # packages that your targets need to run
+               "log4r",
+               "ggplot2") # packages that your targets need to run
   # format = "qs", # Optionally set the default storage format. qs is fast.
   #
   # For distributed computing in tar_make(), supply a {crew} controller
@@ -53,7 +54,7 @@ tar_source()
 # source("other_functions.R") # Source other scripts as needed.
 
 # Replace the target list below with your own:
-list(
+target_1 <- list(
   
   # Track changes in the data file
   tar_target(
@@ -90,43 +91,128 @@ list(
   ),
   
   # Data quality checks
-  # Write data quality checks in the log
   tar_target(
     name = data_quality,
     command = perform_data_quality(data_in, data_expectations)
-  ),
-  
+  )
+
+)
+
+
+# No branching ------------------------------------------------------------
+
+target_2 <- list(
+
   # Model severity
   tar_skip(
     name = train_sev,
     command = {
-      
-      df_sev <- data_in %>% 
+
+      df_sev <- data_in %>%
         filter(numclaims > 0)
-      
-      glm(claimcst0 ~ agecat + area + veh_value, 
-          data = df_sev, 
-          family = Gamma(link = "log"), 
+
+      glm(claimcst0 ~ agecat + area + veh_value,
+          data = df_sev,
+          family = Gamma(link = "log"),
           offset = log(numclaims))
-      
+
     },
-    skip = data_quality
+    skip = !data_quality
+    # skip = FALSE
   ),
-  
+
   # Model frequency
   tar_skip(
     name = train_freq,
     command = {
-      
-      glm(numclaims ~ agecat + area + veh_value,
+
+      glm(numclaims ~ agecat + area + veh_value + gender + veh_body + veh_age + agecat,
           data = data_in,
-          family = poisson(link = "log"), 
+          family = poisson(link = "log"),
           offset = log(exposure))
-      
-    }, 
-    skip = data_quality 
+
+    },
+    skip = !data_quality
+    # skip = FALSE
+  ),
+
+  tar_skip(
+    name = validation,
+    command = validate_model(data_in, train_freq, train_sev),
+    skip = is.null(train_freq) | is.null(train_sev)
   )
-  
-  # Prevent the rest of the pipeline to run if dq are not passed
-  
+
 )
+# 
+# # Static branching --------------------------------------------------------
+# 
+# target_2 <- list(
+#   tar_map(values = list(model = c("freq", "sev")),
+#           names = "model",
+#           tar_skip(
+#             name = train,
+#             command = {
+# 
+#               if(model == "sev"){
+# 
+#                 df_sev <- data_in %>%
+#                   filter(numclaims > 0)
+# 
+#                 glm(claimcst0 ~ agecat + area + veh_value,
+#                     data = df_sev,
+#                     family = Gamma(link = "log"),
+#                     offset = log(numclaims))
+# 
+# 
+#               } else if(model == "freq"){
+# 
+#                 glm(numclaims ~ agecat + area + veh_value + gender + veh_body + veh_age + agecat,
+#                     data = data_in,
+#                     family = poisson(link = "log"),
+#                     offset = log(exposure))
+# 
+#               }
+# 
+#             },
+#             # skip = !data_quality
+#             skip = FALSE
+#           )
+#   ),
+#   
+#   tar_target(
+#     name = validation,
+#     command = validate_model(data_in, train_freq, train_sev)
+#   )
+#   
+# )
+
+# Dynamic branching -------------------------------------------------------
+
+# target_2 <- list(
+#   
+#   tar_target(
+#     name = data_gender,
+#     data_in %>% 
+#       group_by(gender) %>% 
+#       tar_group(),
+#     iteration = "group"
+#   ),
+#   
+#   tar_target(
+#     name = train_freq,
+#     command = {
+#       
+#       glm(numclaims ~ agecat + area + veh_value + veh_body + veh_age + agecat,
+#           data = data_in,
+#           family = poisson(link = "log"),
+#           offset = log(exposure))
+#       
+#     },
+#     pattern = map(data_gender),
+#     iteration = "list"
+#   )
+# )
+
+
+
+list(target_1, target_2)

@@ -65,13 +65,3 @@ check_expectations <- function(data, expectations){
     
     return(res)
 }
-
-# expectations <- list(
-#   gender = list(
-#     value_set = c("M")
-#   )
-# )
-# library(assertr)
-# expectations <- yaml::read_yaml("data/expectations.yaml")
-# a <- perform_data_quality(df, expectations)
-  
