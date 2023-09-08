@@ -12,7 +12,7 @@ During this training, you will learn :
 
 -   to build robust R pipeline using [targets](https://books.ropensci.org/targets/)
 
--   to run and visualize [targets](https://books.ropensci.org/targets/){style="font-size: 11pt;"} pipeline
+-   to run and visualize [targets](https://books.ropensci.org/targets/) pipeline
 
 -   to use static branching and dynamic branching
 
@@ -24,19 +24,19 @@ During this training, you will learn :
 
 The R package `targets` is a powerful tool for **managing and automating data analysis and modeling pipelines**. It helps streamline the workflow by automatically **tracking dependencies** between code and data, ensuring that only necessary steps are rerun when inputs change.
 
-## Why to use targets ? (acc. to chatGPT)
+## Why use targets ? (acc. to chatGPT)
 
 1.  **Dependency Management**: 'targets' helps you clearly specify dependencies between different parts of your analysis pipeline. This makes it easier to understand the flow of data and computations in your project.
 
 2.  **Incremental Updates**: When input data or code changes, 'targets' intelligently identifies and updates only the affected downstream tasks. This saves time and computational resources by avoiding unnecessary re-execution of unchanged steps.
 
-## Why to use targets ? (acc. to chatGPT)
+## Why use targets ? (acc. to chatGPT)
 
 3.  **Parallel and Distributed Computing**: 'targets' supports parallel and distributed computing, which can significantly speed up the execution of computationally intensive tasks. This is especially valuable for large datasets or complex models.
 
 4.  **Reproducibility**: The package enhances reproducibility by capturing a complete record of your workflow, including the specific versions of data, code, and packages used for each task. This makes it easier to reproduce and share your analysis.
 
-## Why to use targets ? (acc. to chatGPT)
+## Why use targets ? (acc. to chatGPT)
 
 5.  **Modularity and Flexibility**: The package encourages a modular approach to organizing your analysis, allowing you to break down complex workflows into smaller, more manageable tasks. This can improve code maintainability and collaboration.
 
