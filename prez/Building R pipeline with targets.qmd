@@ -12,7 +12,7 @@ During this training, you will learn :
 
 -   to build robust R pipeline using [targets](https://books.ropensci.org/targets/)
 
--   to run and visualize [targets](https://books.ropensci.org/targets/){style="font-size: 11pt;"} pipeline
+-   to run and visualize [targets](https://books.ropensci.org/targets/) pipeline
 
 -   to use static branching and dynamic branching
 
