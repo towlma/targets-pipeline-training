@@ -340,14 +340,15 @@ Tristan Hay
 <h2>Objective of the training</h2>
 <p>During this training, you will learn :</p>
 <ul>
-<li><p>to build robust R pipeline using <a href="https://books.ropensci.org/targets/">target</a>.</p></li>
+<li><p>to build robust R pipeline using <a href="https://books.ropensci.org/targets/">targets</a></p></li>
+<li><p>to run and visualize <a href="https://books.ropensci.org/targets/" style="font-size: 11pt;">targets</a> pipeline</p></li>
+<li><p>to use static branching and dynamic branching</p></li>
 <li><p>to perform data quality checks with <a href="https://github.com/ropensci/assertr">assertr</a></p></li>
 <li><p>to create log files with <a href="https://cran.r-project.org/web/packages/log4r/readme/README.html">log4r</a></p></li>
-<li><p>to run this target at</p></li>
 </ul>
 </section>
-<section id="what-is-target" class="slide level2">
-<h2>What is target ?</h2>
+<section id="what-is-targets" class="slide level2">
+<h2>What is targets ?</h2>
 <p>The R package <code>targets</code> is a powerful tool for <strong>managing and automating data analysis and modeling pipelines</strong>. It helps streamline the workflow by automatically <strong>tracking dependencies</strong> between code and data, ensuring that only necessary steps are rerun when inputs change.</p>
 </section>
 <section id="why-to-use-targets-acc.-to-chatgpt" class="slide level2">
@@ -373,10 +374,11 @@ Tristan Hay
 </section>
 <section id="example" class="slide level2">
 <h2>Example</h2>
-<p>Show image of the pipeline here</p>
-</section>
-<section id="to-go-further" class="slide level2">
-<h2>To go further</h2>
+
+<img data-src="targets_pipeline.png" class="r-stretch"></section>
+<section id="going-further" class="slide level2">
+<h2>Going further</h2>
+<p><code>gittargets</code> package captures version-controlled snapshots of the data store, and each snapshot links to the underlying commit of the source code</p>
 <p>https://docs.ropensci.org/gittargets/</p>
 <div class="footer footer-default">
 

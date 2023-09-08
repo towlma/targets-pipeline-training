@@ -10,13 +10,15 @@ editor: visual
 
 During this training, you will learn :
 
--   to build robust R pipeline using [targets](https://books.ropensci.org/targets/).
+-   to build robust R pipeline using [targets](https://books.ropensci.org/targets/)
+
+-   to run and visualize [targets](https://books.ropensci.org/targets/){style="font-size: 11pt;"} pipeline
+
+-   to use static branching and dynamic branching
 
 -   to perform data quality checks with [assertr](https://github.com/ropensci/assertr)
 
 -   to create log files with [log4r](https://cran.r-project.org/web/packages/log4r/readme/README.html)
-
--   to run this target at
 
 ## What is targets ?
 
@@ -42,8 +44,10 @@ Overall, `targets` simplifies and optimizes the management of data analysis and 
 
 ## Example
 
-Show image of the pipeline here
+![](targets_pipeline.png)
 
-## To go further
+## Going further
+
+`gittargets` package captures version-controlled snapshots of the data store, and each snapshot links to the underlying commit of the source code
 
 https://docs.ropensci.org/gittargets/
